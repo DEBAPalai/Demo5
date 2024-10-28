@@ -1,0 +1,4 @@
+[core]
+    remote = mydata
+['remote "mydata"']
+    url = /home/debasish/Documents/AT_with_DVC/Data_base
